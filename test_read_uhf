@@ -1,0 +1,44 @@
+Tag ID: 0080B0483C0000001215984A
+Read Count: 13
+RSSI: -29
+Antenna ID: 1
+Frequency: 866900
+Timestamp: 2022-06-30T14:37:18.750+02:00
+Phase: 174
+Protocol: GEN2
+Data[0]:
+GPO Status:
+Pin1: Low
+Pin2: Low
+Pin3: Low
+Pin4: Low
+GPI Status:
+Pin1: Low
+Pin2: Low
+Pin3: Low
+Pin4: High
+Gen2Q: 2
+Gen2LinkFrequency: LINK250KHZ
+Gen2Target: A
+Tag ID: 0080B0483C00000012158DD6
+Read Count: 9
+RSSI: -44
+Antenna ID: 1
+Frequency: 866900
+Timestamp: 2022-06-30T14:37:18.863+02:00
+Phase: 174
+Protocol: GEN2
+Data[0]:
+GPO Status:
+Pin1: Low
+Pin2: Low
+Pin3: Low
+Pin4: Low
+GPI Status:
+Pin1: Low
+Pin2: Low
+Pin3: Low
+Pin4: High
+Gen2Q: 2
+Gen2LinkFrequency: LINK250KHZ
+Gen2Target: A
